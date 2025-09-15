@@ -11,3 +11,5 @@ st.write(
     
     """
 )
+from ui import render_footer
+render_footer("Alessio Marchione","", "https://github.com/alessiomarchione")
